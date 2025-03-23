@@ -38,3 +38,12 @@ This dashboard provides key insights into ride-booking trends, including total b
 ✅ Trip distances range from 24.88 to 25.15 km, with a high utilization rate across vehicle categories.
 
 This dashboard enables ride-hailing businesses to optimize operations, reduce cancellations, and enhance customer satisfaction through data-driven strategies.
+
+![Overall](https://github.com/SURAJ-MAURYA7/OLA_Data_Analysis_Using_PowerBI/blob/main/Overall.png)
+
+![Revenue](https://github.com/SURAJ-MAURYA7/OLA_Data_Analysis_Using_PowerBI/blob/main/Revenue.png)
+
+![Vehicle Type](https://github.com/SURAJ-MAURYA7/OLA_Data_Analysis_Using_PowerBI/blob/main/Vehicle%20Type.png)
+
+![Ratings](https://github.com/SURAJ-MAURYA7/OLA_Data_Analysis_Using_PowerBI/blob/main/Ratings.png)
+
