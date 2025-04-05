@@ -1,43 +1,59 @@
-# OLA_Data_Analysis
+# OLA_Data_Analysis 
 
-I designed this dashboard to provide real-time insights into ride-booking trends, revenue performance, cancellation patterns, and customer experience. This project helps stakeholders make data-driven decisions to optimize ride-hailing operations.
-
-🚖 Overview
-
-This dashboard provides key insights into ride-booking trends, including total bookings, successful rides, cancellation reasons, revenue performance, and customer ratings. The goal is to enhance operational efficiency and improve the driver-rider experience.
-
-🚀 Key Features
-
-✅ Booking Analysis: Breakdown of total bookings, successful rides, and cancellations.
-
-✅ Revenue Insights: Total booking value and platform earnings visualization.
-
-✅ Cancellation Patterns: Understanding key reasons behind cancellations.
-
-✅ Customer & Driver Ratings: Average ratings to gauge service quality.
-
-✅ Distance & Utilization Trends: Analysis of trip distances and total kilometers traveled.
+🚖 OLA Ride Data Analysis Project – SQL & Power BI Dashboard
+This project analyzes OLA ride-hailing data using SQL and Power BI to deliver actionable insights into bookings, revenue, cancellations, and customer experience.
 
 
 
-📌 Technologies Used
+🔍 SQL Analysis (MySQL)
+Database Setup: Created and imported ride data into MySQL.
 
-✅ Power BI for data visualization 📊
+✅ 10 Key Analysis Views:
 
-✅ Excel/CSV for raw data processing 📂
+✅ Successful bookings
+
+✅ Avg. ride distance by vehicle type
+
+✅ Customer and driver cancellations
+
+✅ Top 5 frequent customers
+
+✅ Ratings and revenue insights
+
+✅ Payment method breakdown (e.g., UPI)
+
+✅ Incomplete rides with reasons
+
+✅ Each task is encapsulated as a view for easy reuse and scalability.
 
 
-🎯 Key Insights
 
-✅ 103K total bookings, with 64K completed rides and 39K cancellations.
+📊 Power BI Dashboard
+Provides real-time visual insights into:
 
-✅ $35.08M in total booking value, with an impressive 98.3% success rate on completed rides.
+✅ Booking Trends: Total, successful, and canceled rides
 
-✅ Customer & driver ratings average around 4.0, reflecting a balanced experience.
+✅ Revenue Performance: $35.08M total booking value
 
-✅ Trip distances range from 24.88 to 25.15 km, with a high utilization rate across vehicle categories.
+✅ Cancellation Insights: Breakdown by reason
 
-This dashboard enables ride-hailing businesses to optimize operations, reduce cancellations, and enhance customer satisfaction through data-driven strategies.
+✅ Ratings Overview: Avg. ~4.0 for customers & drivers
+
+✅ Distance Trends: Avg. 24.88–25.15 km across vehicle types
+
+💡 Key Stats & Insights
+✅ 103K total bookings with a 98.3% success rate on completed rides
+
+✅ 64K completed rides, 39K cancellations
+
+✅ High vehicle utilization and balanced customer-driver satisfaction
+
+🛠 Tech Stack
+✅ MySQL – Data querying and analysis
+
+✅ Power BI – Visualization and dashboard creation
+
+✅ Excel/CSV – Data preprocessing
 
 ![Overall](https://github.com/SURAJ-MAURYA7/OLA_Data_Analysis_Using_PowerBI/blob/main/Overall.png)
 
